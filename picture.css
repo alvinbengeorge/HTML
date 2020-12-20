@@ -1,0 +1,38 @@
+body
+{
+background-color:black;
+background-image:url('C:\Users\Allen\Desktop\Desktop\Alvin\moto g5\PhotosEditor\IMG_20181018_072553660~2.jpg');
+font-family:"verdana";
+color:white;
+text-shadow:5px 5px black;
+}
+img
+{
+border:3px solid RGB(128,128,128);
+width:33.33%;
+display:inline-block;
+}
+h1
+{
+border:5px solid RGB(100,70,255);
+background-color:Dodgerblue;
+border-radius:5px;
+}
+h2
+{
+border:4px solid RGB(100,70,255);
+background-color:Dodgerblue;
+text align:center;
+border-radius:5px;
+}
+div
+{
+border:5px solid RGB(120,120,120);
+border-radius:5px;
+width:24%;
+height:550px;
+display:inline-block;
+float:left;
+postion:fixed;
+overflow:hidden;
+}

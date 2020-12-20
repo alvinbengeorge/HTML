@@ -1,0 +1,18 @@
+body
+{
+font-family:"verdana";
+background-image:url('https://ak5.picdn.net/shutterstock/videos/3022195/thumb/1.jpg');
+}
+h1
+{
+background:linear-gradient(blue,black,blue);
+color:white;
+text-align:center;
+border:5px groove black;
+border-radius:25px;
+font-family:"Algerian";
+}
+h2
+{
+color:white;
+}
